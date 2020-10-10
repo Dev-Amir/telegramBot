@@ -3,8 +3,8 @@
 ---
 
 ## how to run app?
-> yarn install 
+> yarn install or npm install --save
 
 > add a telegram bot token to .env
 
-> yarn start for run bot | yarn dev for develop bot
+> <(yarn or npm) start> for run bot | (<yarn or npm run) dev> for develop bot
